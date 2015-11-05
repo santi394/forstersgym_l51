@@ -17,3 +17,5 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 12-Setting up forstersgym
 
 13-Creating Schools Migration Model Population
+
+14-Creating Students Models with Relationships
