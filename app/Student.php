@@ -7,13 +7,19 @@ use Illuminate\Database\Eloquent\Model;
 class Student extends Model
 {
     /**
-     * The database table used by the model
-     * @var string
+     *  A student belongs to 1 school
      *
+     * get the schol that owns the student
+     * the name of the funtion is the Same as the
+     * table
      */
+    public function school()
+    {
+        return $this->belongsTo('App\School');
+    }
 
 
-    protected $table = 'students';
+
 }
 
 
