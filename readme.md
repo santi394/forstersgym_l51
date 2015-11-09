@@ -14,6 +14,10 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ### Work covered so far:
 
 
+7-Starting migrations_xamppV2
+
+8-Changing user fields
+
 12-Setting up forstersgym
 
 13-Creating Schools Migration Model Population
